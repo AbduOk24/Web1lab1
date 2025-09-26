@@ -36,6 +36,3 @@
 
 </html>
 
-# Screenshot 2025-09-26 075428
-![Screenshot 2025-09-26 075428](/ Screenshot 2025-09-26 075428.png) 
-
