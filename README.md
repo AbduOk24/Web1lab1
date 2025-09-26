@@ -36,4 +36,4 @@
 
 </html>
 
-![Hasil](/.png)
+![Hasil](/Screenshot 2025-09-26 075428.png)
